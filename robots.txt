@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://taiarcyc.github.io/sitemap
+Sitemap: https://taiarcyc.github.io/app/sitemap
+Sitemap: https://taiarcyc.github.io/assets/sitemap
+Sitemap: https://taiarcyc.github.io/css/sitemap
+Sitemap: https://taiarcyc.github.io/includes/sitemap
+Sitemap: https://taiarcyc.github.io/item/sitemap
+Sitemap: https://taiarcyc.github.io/src/sitemap
